@@ -11,8 +11,5 @@
       "src": "/(.*)",
       "dest": "/public/index.php"
     }
-  ],
-  "engines": {
-    "node": "18.x"
-  }
+  ]
 }
